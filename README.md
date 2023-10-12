@@ -1,3 +1,4 @@
 # soumya-demo
-this is my first git repository
-author-Soumyashree Jena
+This is my first git repository
+<br>
+Author-Soumyashree Jena
